@@ -1,2 +1,2 @@
-# webWEB115
+# web115
 Repo for web115 projects
